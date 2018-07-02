@@ -1,0 +1,32 @@
+
+#navbar {
+  display: grid;
+  height: 100%;
+  background-color: #ddd;
+  position: fixed;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+#navbar h3 {
+  font-weight: bold;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.nav-link {
+  margin-left: 20%;
+  color: black;
+}
+
+.nav-link:hover {
+  color: orange;
+}
+
+#main-doc {
+  margin-left:310px;
+  margin-right: 100px;
+  padding:20px;
+  margin-bottom:110px;
+  position: absolute;
+}
